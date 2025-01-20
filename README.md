@@ -4,6 +4,6 @@ Ini adalah dokumentasi dari hasil belajar Pemrograman menggunakan Javascript. Se
 
 Portofolio ini adalah milik **Topan Sidiq**
 
-Intagram: https://www.instagram.com/topanisme_ \n
-YouTube : https://www.youtube.com/@topanisme \n
-LinkedIn: https://www.linkedin.com/in/topanisme \n
+Intagram: https://www.instagram.com/topanisme_
+YouTube : https://www.youtube.com/@topanisme
+LinkedIn: https://www.linkedin.com/in/topanisme
