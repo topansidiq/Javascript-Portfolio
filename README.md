@@ -1,4 +1,4 @@
-# Javascript-Portfolio
+# Javascript-Portfolio [Topan Sidiq]
 
 Ini adalah dokumentasi dari hasil belajar Pemrograman menggunakan Javascript. Semua yang ada di dalam GitHub ini dapat digunakan kembali oleh pihak manapun. Pembuatan aplikasi yang terdapat dalam dokumentasi ini merupakan hasil dari belajar melalui YouTube atau ekperimen pribadi.
 
