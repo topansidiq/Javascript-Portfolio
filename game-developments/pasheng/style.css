@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    justify-content: center; /* Pusatkan secara horizontal */
+    align-items: center;    /* Pusatkan secara vertikal */
+    min-height: 100vh;      /* Pastikan tinggi body sesuai layar */
+    margin: 0;              /* Hilangkan margin default body */
+    background: rgb(255, 106, 12);    /* (Opsional) Latar belakang untuk body */
+    color: #fff;            /* (Opsional) Warna teks */
+}
+
+/* Style untuk container utama */
+#container {
+    display: inline-flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 1rem auto;
+    background: #2c2c2c;
+}
+
+/* Style untuk setiap row */
+.row {
+    display: flex;
+}
+
+/* Style untuk setiap cell */
+.cell {
+    text-align: center;
+    padding: 0.5rem;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    color: #000;
+
+    transition: all 0.2s;
+}
+
+.cell:hover {
+    background-color: #2c2c2c;
+    color: #f4f4f4;
+    cursor: pointer;
+}
